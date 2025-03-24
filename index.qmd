@@ -1,0 +1,11 @@
+---
+title: "AMR-data-dictionary"
+---
+
+```         
+## About  
+
+This web page will provide metadata information about the data files used for the course Introduction to R, databases and reproducibility for AMR epidemiologists.
+```
+
+\
